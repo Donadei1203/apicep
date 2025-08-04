@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px 600px 0px 600px;
+    background-color: aliceblue;
+    color: darkblue;
+}
